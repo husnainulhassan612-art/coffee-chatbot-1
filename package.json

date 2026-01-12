@@ -1,0 +1,8 @@
+{
+  "name": "coffee-chatbot",
+  "version": "1.0.0",
+  "main": "coffee-chatbot.js",
+  "scripts": {
+    "start": "node coffee-chatbot.js"
+  }
+}
